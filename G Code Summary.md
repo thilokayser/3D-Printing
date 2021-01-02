@@ -1,7 +1,7 @@
-Printer: Artillery Sidewinder X1
+# Printer: Artillery Sidewinder X1
 
 
-Start Code 
+### Start Code 
 
 G28 ; home all axes
 M117 Purge extruder
@@ -20,7 +20,7 @@ M42 P6 S0 ; LED aus
 
 ---
 
-End Code
+### End Code
 
 G91; relative positioning
 G1 Z1.0 F3000 ; move z up little to prevent scratching of print
@@ -33,17 +33,15 @@ M84 ; disable motors
 M106 S0 ; turn off fan
 
 
-# Calibrated E Steps 
-ALT 
-20.12.20
+## Calibrated E Steps 
+### ALT 20.12.20
 M92 E445.7429048414024 ;Calibrated E Steps 
 
-Aktuell
-02.01.20
+### Aktuell 02.01.20
 M92 E445.74 
 =
 M92 X80.12 Y80.12 Z399.78 E445.74
 
-Neu 02.01.20
+### Neu 02.01.20
 
 M92 E498.3428571428571 
