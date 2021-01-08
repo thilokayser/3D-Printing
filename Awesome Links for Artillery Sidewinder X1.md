@@ -4,9 +4,9 @@
 
 ## printable Upgrades:
 
-https://www.thingiverse.com/thing:4213436/files
-https://www.thingiverse.com/thing:4706217
-https://www.thingiverse.com/thing:3519658/files
+- https://www.thingiverse.com/thing:4213436/files
+- https://www.thingiverse.com/thing:4706217
+- https://www.thingiverse.com/thing:3519658/files
 
 ## Misc Fixes
 
