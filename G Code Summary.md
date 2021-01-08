@@ -19,7 +19,6 @@ M42 P5 S0 ; LED aus
 M42 P6 S0 ; LED aus
 ````
 
----
 
 ### End Code
 
@@ -38,17 +37,20 @@ M106 S0 ; turn off fan
 ### Calibrated E Steps 
 
 #### ALT 20.12.20
+
 ```
 M92 E445.7429048414024 ;Calibrated E Steps 
 ````
+
 #### Aktuell 02.01.20
+
 ```
 M92 E445.74 
 =
 M92 X80.12 Y80.12 Z399.78 E445.74
 ```
 
-### Neu 02.01.20
+#### Neu 02.01.20
 ```
 M92 E498.3428571428571 
 ```
