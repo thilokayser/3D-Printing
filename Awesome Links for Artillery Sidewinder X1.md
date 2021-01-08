@@ -14,6 +14,7 @@
 
 
 ## Misc. Information
+- https://forum.fulament.com/t/m1hy2bd/setting-up-your-brand-new-sidewinder-x1
 
 - https://3d-nexus.com/resources/file-archives/download/12-3dmodels/26-3dn-artillery-x1-genius-5015-fan-remix
 
