@@ -56,7 +56,18 @@ M92 E498.3428571428571
 ```
 
 
-PID Tuning
+# PID Tuning
+
+#### Auto PID Extruder; mit 200 °C; 8 Zyklen
+```
+M106 S255; Fan 100%
+M303 E0 S200 C8
+```
+
+#### Auto PID BED; mit 60 °C; 8 Zyklen
+
+
+
 ### Extruder Alt Stock Einstellungen 09.01.20
 
 ```
