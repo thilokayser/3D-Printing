@@ -3,6 +3,8 @@
 ### Start Code 
 
 ```
+M301 P25.38 I3.13 D51.46 ; Extruder PID Tuned
+M304 P104.05 I20.16 D134.25 ;BED PID Tuned
 G28 ; home all axes
 M117 Purge extruder
 G92 E0 ; reset extruder
@@ -80,14 +82,14 @@ M303 E-1 S60 C8
 
 ### Extruder New
 ```
-DEFAULT_Kp 33.18
-DEFAULT_Ki 4.82
-DEFAULT_Kd 57.08
+DEFAULT_Kp 25.38
+DEFAULT_Ki 3.13
+DEFAULT_Kd 51.46
 ```
 
 ## Extruder New Results apply
 ```
-M301 P33.18 I4.82 D57.08
+M301 P25.38 I3.13 D51.46
 ```
 
 ## Bed old Settings
@@ -100,9 +102,8 @@ DEFAULT_bedKp 104.05
 DEFAULT_bedKi 20.16
 DEFAULT_bedKd 134.25
 ```
-## Extruder New Results apply
+## Bed New Results apply
 ```
 M304 P104.05 I20.16 D134.25
 ```
-
 
