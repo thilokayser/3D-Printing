@@ -54,3 +54,41 @@ M92 X80.12 Y80.12 Z399.78 E445.74
 ```
 M92 E498.3428571428571 
 ```
+
+
+PID Tuning
+### Extruder Alt Stock Einstellungen 09.01.20
+
+```
+  M301 P14.58 I1.14 D46.57
+  M304 P244.21 I45.87 D325.08
+```
+
+### Extruder New
+```
+DEFAULT_Kp 33.18
+DEFAULT_Ki 4.82
+DEFAULT_Kd 57.08
+```
+
+## Extruder New Results apply
+```
+M301 P33.18 I4.82 D57.08
+```
+
+## Bed old Settings
+```
+M304 P244.21 I45.87 D325.08
+```
+## Bed new Settings
+```
+DEFAULT_bedKp 104.05
+DEFAULT_bedKi 20.16
+DEFAULT_bedKd 134.25
+```
+## Extruder New Results apply
+```
+M304 P104.05 I20.16 D134.25
+```
+
+
