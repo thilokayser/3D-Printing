@@ -66,6 +66,9 @@ M303 E0 S200 C8
 
 #### Auto PID BED; mit 60 °C; 8 Zyklen
 
+```
+M303 E-1 S60 C8
+```
 
 
 ### Extruder Alt Stock Einstellungen 09.01.20
