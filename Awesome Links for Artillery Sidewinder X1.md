@@ -11,7 +11,8 @@
 ## Misc Fixes
 
 - https://3dprintbeginner.com/fix-octoprint-always-on-printer-display/
-
+## Firmware Updates
+- https://github.com/wgcv/RAWR-TFT-Firmware-Artillery3D
 
 ## Misc. Information
 - https://forum.fulament.com/t/m1hy2bd/setting-up-your-brand-new-sidewinder-x1
