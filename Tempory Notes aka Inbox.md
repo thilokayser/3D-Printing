@@ -1,3 +1,18 @@
 - https://www.banggood.com/Nozzle-Extruder-Kit-with-Silicone-Case-thermistor-Heating-Tube-Throat-for-Sidewinder-X1-or-Genius-3D-Printer-p-1734150.html?cur_warehouse=CN&rmmds=search&DCC=DE&currency=EUR 
-
 - https://addnorth.com/en/
+- https://3d-nexus.com/resources/file-archives/download/12-3dmodels/26-3dn-artillery-x1-genius-5015-fan-remix
+- https://www.youtube.com/watch?v=9TPCdesemes
+- https://artillery.n3t.ro/
+- https://www.thingiverse.com/thing:1981180
+- https://www.thingiverse.com/thing:4213436/files
+- https://www.thingiverse.com/thing:4706217
+- https://3dprintbeginner.com/fix-octoprint-always-on-printer-display/
+- https://www.youtube.com/watch?v=y_1Kg45APko
+- https://www.thingiverse.com/thing:3519658/files
+- https://m.youtube.com/watch?v=C9pFtwtN3Dc
+- https://www.youtube.com/watch?v=yZs8NtQ-mJ0
+- https://www.youtube.com/watch?v=yZs8NtQ-mJ0
+- https://artillery3d.es/perfil-artillery-sidewinder-x1-simplify3d/
+- https://www.inov3d.net/3d-printer-slicer-profiles/
+- https://dreid24.com/SeiteNeu/download/sw-x1-simplify3dpla/
+- https://www.thingiverse.com/thing:3700603/files
